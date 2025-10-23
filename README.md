@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivoham
+# 👋 Hi, I'm Shiv
 
 🚀 **Transforming Ideas into Apps**  
 💻 MERN Stack Developer  
